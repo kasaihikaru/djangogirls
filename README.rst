@@ -11,7 +11,7 @@ Requirement
 
 Quick start
 ===========
-1. プロジェクトのクローン::
+1.プロジェクトのクローン::
 
 
 2.pip install -r requirements.txt
@@ -19,9 +19,9 @@ Quick start
 
 3.mysite/settings.pyの中のmysqlのユーザーパスワードの設定を自分のに。
 
-4. モデルのmigrate::
+4.モデルのmigrate::
     python manage.py migrate
 
-5. うごかす::
+5.うごかす::
     python manage.py runserver
 
